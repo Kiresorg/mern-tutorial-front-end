@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b953a098-7d29-483d-89ed-86b74c8fa6c7/resourceGroups/DefaultResourceGroup-CUS/providers/Microsoft.Web/sites/mern-tutorial-front-end",
+    "appService.deploySubpath": "."
+}
